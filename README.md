@@ -21,4 +21,12 @@ Here are a few things I’ve worked on:
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yal212&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yal212&layout=compact)
+
+---
+
 > “The best way to learn to code is to build something cool.” – You, probably 😄
