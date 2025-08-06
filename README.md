@@ -23,9 +23,9 @@ Here are a few things I’ve worked on:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yal212&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yal212&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yal212&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yal212&layout=compact&theme=tokyonight)
 
 ---
 
