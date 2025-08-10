@@ -16,8 +16,8 @@ I'm a high school student passionate about coding, AI, and building useful tools
 ## 🛠️ Projects
 
 Here are a few things I’ve worked on:
-
-- 🔗 [High School Soap Lab Website](https://hssl-web.vercel.app)  
+- [My Portfolio Website](https://ianlee-my-portfolio.vercel.app)
+- [High School Soap Lab Website](https://hssl-web.vercel.app)  
 
 ---
 
