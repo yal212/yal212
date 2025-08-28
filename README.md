@@ -6,7 +6,7 @@ I'm a high school student passionate about coding, AI, and building useful tools
 
 ## 🧠 What I'm Learning
 
-- 💻 Python & C++
+- 💻 Python & C++ & JavaScript
 - 🤖 How to use AI to build smarter websites
 - 🌐 HTML, CSS, JavaScript
 - 📚 Algorithms and data structures
