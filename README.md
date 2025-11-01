@@ -18,7 +18,8 @@ I'm a high school student passionate about coding, AI, and building useful tools
 Here are some of my main public projects:
 
 - 🔹 [**Coding Journey**](https://github.com/yal212/coding-journey) – A collection of coding exercises, experiments, and learning notes.  
-- 🔹 [**HANGMAN**](https://github.com/yal212/HANGMAN) – A classic Hangman game implemented in Python.  
+- 🔹 [**HANGMAN**](https://github.com/yal212/HANGMAN) – A classic Hangman game implemented in Python.
+- 🔹 [**Maze Generator**](https://github.com/yal212/maze-generator) – Python built maze generator that outputs the maze as a .PNG file
 
 Websites:  
 
