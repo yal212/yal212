@@ -6,25 +6,10 @@ I'm a high school student passionate about coding, AI, and building useful tools
 
 ## 🧠 What I'm Learning
 
-- 💻 **Python | C++ | JavaScript**  
+- 💻 **Python | C++ | Java**  
 - 🤖 Using AI to build smarter websites  
 - 🌐 Web development: HTML, CSS, JavaScript  
 - 📚 Algorithms and data structures  
-
----
-
-## 🛠️ Featured Projects
-
-Here are some of my main public projects:
-
-- 🔹 [**Coding Journey**](https://github.com/yal212/coding-journey) – A collection of coding exercises, experiments, and learning notes.  
-- 🔹 [**HANGMAN**](https://github.com/yal212/HANGMAN) – A classic Hangman game implemented in Python.
-- 🔹 [**Maze Generator**](https://github.com/yal212/maze-generator) – Python built maze generator that outputs the maze as a .PNG file
-
-Websites:  
-
-- 🌐 [**My Portfolio Website**](https://ianlee-my-portfolio.vercel.app) – Showcases my projects and skills.  
-- 🧼 [**High School Soap Lab Website**](https://hssl-web.vercel.app) – A website for my school’s lab project.  
 
 ---
 
