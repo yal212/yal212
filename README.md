@@ -1,6 +1,6 @@
 # 👋 Hi, I'm yal212!  
 
-I'm a high school student passionate about coding, AI, and building useful tools for the web. I love learning by building projects and sharing them with the community. 🚀  
+I'm a high school student passionate about coding, AI, quantitative trading, cybersecurity and building useful tools for the web. I love learning by building projects and sharing them with the community. 🚀  
 
 ---
 
