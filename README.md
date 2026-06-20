@@ -1,6 +1,6 @@
-# 👋 Hi, I'm yal212!  
+# 👋 Hi, I'm Ianon!  
 
-I'm a high school student passionate about software development, quantitative trading, cybersecurity and CTF. I love learning by building projects and sharing writeups with the community. 🚀  
+I'm a high school student passionate about software development, cybersecurity. I love learning by building projects and sharing CTF writeups with the community. 🚀  
 
 ---
 
