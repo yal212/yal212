@@ -12,4 +12,5 @@ I'm a high school student passionate about software development, cybersecurity. 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=yal212&theme=tokyonight&hide_border=false)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=yal212&theme=tokyo-night&hide_border=false&area=true)
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=yal212&theme=dark)](https://github.com/francisdav1d/monkeytype-readme-stats)
 [![My GitFut card](https://gitfut.com/yal212.png)](https://gitfut.com/yal212)
