@@ -4,7 +4,8 @@ I'm a high school student passionate about software development, cybersecurity. 
 
 ---
 
-## [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yal212yal@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Disastrous-Ad-7100)
+## [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yal212yal@gmail.com) 
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Disastrous-Ad-7100) -->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
